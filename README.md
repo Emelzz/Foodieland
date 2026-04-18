@@ -1,0 +1,1 @@
+Foodieland is a premium front-end web project designed for food enthusiasts. It features a clean, high-contrast aesthetic with soft curves and professional layouts, focusing on high-quality food photography and clear, readable recipes.
